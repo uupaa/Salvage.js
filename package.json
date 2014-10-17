@@ -1,0 +1,32 @@
+{
+  "name":           "uupaa.salvage.js",
+  "version":        "0.0.1",
+  "description":    "Salvage the resources from binary.",
+  "url":            "https://github.com/uupaa/Salvage.js",
+  "keywords":       ["binary", "salvage", "uupaa", "WebModule", "Unstable"],
+  "repository": {
+    "type":         "git",
+    "url":          "https://github.com/uupaa/Salvage.js.git"
+  },
+  "scripts": {
+  },
+  "x-build": {
+    "source":       [],
+    "output":       "",
+    "target":       ["node"],
+    "label":        [],
+    "module": {
+      "develop":    [],
+      "release":    []
+    }
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "lib":            "./lib/",
+  "main":           "./index.js",
+  "author":         "uupaa",
+  "license":        "MIT",
+  "contributors":   []
+}
