@@ -1,6 +1,6 @@
 {
   "name":           "uupaa.salvage.js",
-  "version":        "0.0.1",
+  "version":        "0.0.2",
   "description":    "Salvage the resources from binary.",
   "url":            "https://github.com/uupaa/Salvage.js",
   "keywords":       ["binary", "salvage", "uupaa", "WebModule", "Unstable"],

@@ -117,6 +117,7 @@ function _pickupEmbeddedPngFiles(buffer) { // @arg Buffer
                 return false;
             }
         }
+        return true;
     }
 }
 
